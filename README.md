@@ -8,3 +8,4 @@ sudo docker-compose up --build //Intial usuage
 sudo docker-compose up -d
 
 ```
+![](https://github.com/subzero-sh/devops-test/blob/main/devops.png)
